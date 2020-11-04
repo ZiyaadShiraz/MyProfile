@@ -1,0 +1,77 @@
+body, html {
+  margin: 0;
+  text-align: center;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  color: #696969
+}
+a{
+  text-decoration: none;
+  margin: 20px;
+}
+a:hover{
+  font-size: 1.01rem;
+}
+hr {
+  margin-top: 2rem;
+  width: 5%;
+  border: dotted;
+  border-bottom: none;
+  border-width: 0.5em;
+  border-color: #cbf1f5;
+  clear:both;
+  margin: 2rem auto;
+}
+
+img {}
+
+.top_container {
+  background-color: #e3fdfd;
+  padding: 1em;
+  height: 100%;
+  margin-bottom: 2rem;
+}
+
+h3{
+  color: #71c9ce;
+}
+
+.make_inline {
+  display: inline;
+}
+
+.skills_row {
+  width: 60%;
+  margin: 0 auto;
+  line-height: 150%;
+  font-size: 1.5rem;
+  text-align: justify;
+}
+
+
+.skills_row>img{
+  width: 30%;
+  height: 30%;
+  margin: 0 30px;
+}
+.footer{
+  clear: both;
+  padding: 2rem 0;
+  background-color: #71c9ce;
+  margin-top: 200px;
+
+}
+
+
+#my_name,h1 {
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  color: #2394F3
+}
+
+#addiction {
+  font-size: 3.48rem;
+  margin-top: 100px;
+  color: #2394F3;
+
+}
